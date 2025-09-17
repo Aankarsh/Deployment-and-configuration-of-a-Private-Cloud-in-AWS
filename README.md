@@ -1,9 +1,7 @@
-# Deployment-and-configuration-of-a-Private-Cloud-in-AWS
-Ex.4 Deployment and configuration of a Private Cloud  in AWS
+# EX - 4 Deployment-and-configuration-of-a-Private-Cloud-in-AWS
 
 Name: AANKARSH
-
-Reg no:212223233001
+Reg no: 212223233001
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
@@ -137,25 +135,9 @@ Availability Zones, or AWS Regions.
 
 <img width="978" height="517" alt="image" src="https://github.com/user-attachments/assets/32387777-87a3-461f-99cb-fb0fc41f16a2" /> 
              Snapshot 10: Creating route table
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+			 
 ## Result:
+Thus, a  private cloud on AWS involves using VPCs has been created for  a dedicated, isolated network where we can manage our resources and control access according to our requirements.
+ 
 Thus, a  private cloud on AWS involves using VPCs has been created for  a dedicated, isolated network where we can manage our resources and control access according to our requirements.
  
